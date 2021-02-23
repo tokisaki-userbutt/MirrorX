@@ -119,6 +119,14 @@ help - Get Detailed Help
 log - Bot Log [owner only]
 ```
 
+# How to deploy in Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Satriouz/python-aria-mirror-bot)
+
+Hit the deploy to heroku button and follow the further instructions in the screen:
+
+**NB: Usage of Aria2 may leads to the suspension of your heroku account so deploy at your own risk.**
+
 # How to deploy?
 Deploying is pretty much straight forward and is divided into several steps as follows:
 ## Installing requirements
