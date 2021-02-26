@@ -34,7 +34,7 @@
       },  
       "DOWNLOAD_DIR": {
         "description": "The path to the local folder where the downloads should be downloaded to.",
-        "value": "/home/username/mirror-bot/download",
+        "value": "/home/username/mirror-bot/downloads",
         "required": false
       },
       "DOWNLOAD_STATUS_UPDATE_INTERVAL": {
@@ -76,6 +76,11 @@
         "description": "Refer to https://github.com/maple3142/GDIndex/ The URL should not have any trailing '/'.",
         "value": "",
         "required": false
+      },
+      "UPTOBOX_TOKEN": {
+        "description": "Uptobox token to mirror uptobox links. Get it from [Uptobox Premium Account](https://uptobox.com/my_account)",
+        "value": "",
+        "required": false  
       },  
       "MEGA_API_KEY": {
         "description": "",
